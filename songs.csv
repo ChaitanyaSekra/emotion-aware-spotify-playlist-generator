@@ -1,0 +1,133 @@
+﻿song_id,song_name,artist,genre,p_emotion,energy_level,tempo_category,language,s_emotion_1,s_emotion_2,s_emotion_3,is_explicit,spotify_uri
+1,PYAAR?,Naam Sujal,hip-hop,love,medium,high,hindi,melancholy,calm,manifesting,non_explicit,spotify:track:7wZ8S7cV5Nc5na1681uotb
+2,Tu nasha,Dhruv Sthetic,hip-hop,love,low,low,hindi,melancholy,healing,exhaustion,non_explicit,spotify:track:1Qw02SVdPaIkDm83PydjcY
+3,Round 3,Seedhe Maut,hip-hop,love,high,medium,hindi,happiness,flex,manifesting,explicit,spotify:track:51c8JN6In3J1uPOGIKYQY9
+4,Kab se kab tak,Kaam bhari,hip-hop,love,low,medium,hindi,hope,heartbreak,failure,non_explicit,spotify:track:5qT5AS3xPEZFdGYzdiwoq3
+5,Lena mera naam,Karma,hip-hop,heartbreak,medium,medium,hindi,remembering,healing,love,non_explicit,spotify:track:3O7ZGvPlFyrlZafkVcUDnW
+6,Lavender,Azooz,hip-hop,heartbreak,medium,medium,hindi,remembering,love,exhaustion,non_explicit,spotify:track:6rwdhQQCa85NfHxrx9fjjk
+7,Tujhko kya fikar,Parvv music,hip-hop,heartbreak,low,low,hindi,sadness,hurt,manifesting,non_explicit,spotify:track:4Ttg2ZRg24knfykSp52aiM
+8,Shaayar,Bharat Chauhan,hip-hop,heartbreak,low,low,hindi,loneliness,remembering,exhaustion,non_explicit,spotify:track:1Y7FQSN29oNXHZBGMkADeH
+9,Mere Jaisa nai,Karma,hip-hop,heartbreak,low,low,hindi,stress,rage,self_respect,non_explicit,spotify:track:6eyLbYbuvO5kP3GUbZ8e1X
+10,Winds,SarpDansh,hip-hop,remembering,low,medium,hindi,heartbreak,love,loneliness,non_explicit,spotify:track:6pFOMGw6kX4CtvFynT1k5v
+11,Tum aati ho,Aniket Raturi,hip-hop,love,medium,high,hindi,manifesting,remembering,confidence_boost,explicit,spotify:track:2rG1teZrIc5EOuilSZv4HU
+12,Ik kudi,wolf.cryman,hip-hop,love,medium,medium,hindi,calm,manifesting,happiness,non_explicit,spotify:track:6xNzHSmcG5KkagzwxEBPA0
+13,Suhana  din,OG Lucifer,hip-hop,healing,medium,high,hindi,calm,manifesting,melancholy,explicit,spotify:track:7AfbNi5AhwNi0PEoQQMs64
+14,Ajnabi,Farhan Khan,hip-hop,love,medium,medium,hindi,melancholy,manifesting,failure,non_explicit,spotify:track:6YjBJcOL9dvUhdzhvW0Z3M
+15,Pyaar Humara,King,hip-hop,love,medium,medium,hindi,heartbreak,loneliness,melancholy,non_explicit,spotify:track:1QZjPBac0NATr1Ujzn0wso
+16,Kho Jaayegi,Musaafir,hip-hop,love,low,medium,hindi,calm,loneliness,hope,non_explicit,spotify:track:7rUkawGbWaSWCBTOpiAowN
+17,Falling for you,Musaafir,hip-hop,heartbreak,low,low,hindi,love,healing,remembering,non_explicit,spotify:track:3VBpmQHgPf3dJwrWWvIif4
+18,Ishqa da Jahaan,Frappe Ash,hip-hop,love,high,medium,hindi,manifesting,nostalgia,heartbreak,explicit,spotify:track:0QB2KcPUVRk0joqwzYpkGh
+19,Doobey doobey se,Aniket Raturi,hip-hop,love,medium,medium,hindi,manifesting,healing,remembering,non_explicit,spotify:track:6dibGD4Y1YDnDcVoiPcZs6
+20,Jawab de,Farhan Khan,hip-hop,heartbreak,medium,low,hindi,hurt,remembering,exhaustion,non_explicit,spotify:track:6jOdcTcVmg9WD5y92fSY0s
+21,Dooriyaan - Acoustic,Aniket Raturi,hip-hop,love,medium,high,hindi,manifesting,calm,heartbreak,non_explicit,spotify:track:0QU0zu74bobCpmlUkT42vn
+22,Saari saari raat,Karma,hip-hop,confidence_boost,high,medium,hindi,rage,love,exhaustion,non_explicit,spotify:track:3MeNlgFQHyVMhATxsJEN2g
+23,Vibrate,Kr$na,hip-hop,happiness,high,medium,hindi,love,flex,win,non_explicit,spotify:track:2iSmLSXq9N79ydOuRATj93
+24,Haseena,SHASHXNK,hip-hop,love,low,medium,hindi,manifesting,healing,calm,non_explicit,spotify:track:0WMY5inLUZ04f9BjB2JzF8
+25,Masoom,Farhan Khan,hip-hop,love,high,medium,hindi,manifesting,melancholy,heartbreak,non_explicit,spotify:track:4yZusd1ivWaoQYwsoBgCCV
+26,Ishaara,Spectra Music,hip-hop,love,medium,low,hindi,heartbreak,remembering,manifesting,non_explicit,spotify:track:1dyajlZih9Lz8OJB3y1pai
+27,Don’t even text,Tsumyoki,hip-hop,love,high,medium,hindi,calm,remembering,manifesting,non_explicit,spotify:track:0pMACt1jSBlH8mKdaE1TSv
+28,Jo bhi ho,Frappe Ash,hip-hop,love,medium,low,hindi,calm,melancholy,,explicit,spotify:track:0jcUaPjIvn5im6cKndx8NA
+29,790001(outro),Sono Lem,hip-hop,happiness,high,medium,hindi,introspection,healing,manifesting,explicit,spotify:track:7KGYSXZ3gvQEhaBAxnorAZ
+30,Farvari,Nanku,hip-hop,love,medium,low,hindi,calm,manifesting,,non_explicit,spotify:track:1V1RSNzH47r1Qxfsqrf1JY
+31,Locha e ulfat,SHASHXNK,hip-hop,love,low,low,hindi,calm,healing,manifesting,non_explicit,spotify:track:4Kg7ivdluQEuAWNWr8yqU2
+32,Agar tum kaho toh,Gunda,hip-hop,love,medium,medium,hindi,manifesting,healing,,non_explicit,spotify:track:1OBvdWCJe95fLmSx9YWwuY
+33,Sunehri Zindagi,Rawal,hip-hop,love,medium,low,hindi,calm,manifesting,,non_explicit,spotify:track:41XFnWwuGYseNG1rypDyA2
+34,Waapsi,Shyko Music,hip-hop,remembering,low,low,hindi,manifesting,love,,non_explicit,spotify:track:30agVZA4QE4b2lwT0KqBjB
+35,Khush reh tu,Rawal,hip-hop,nostalgia,medium,low,hindi,love,manifesting,,non_explicit,spotify:track:1xxhVocwNwGTds0Kq9w9tF
+36,Shillong,Suryansh Bhatt,hip-hop,love,medium,medium,hindi,introspection,melancholy,,explicit,spotify:track:5fhmW35iltUBJFJSYrRSaP
+37,Wish you were here,Frappe Ash,hip-hop,heartbreak,low,medium,hindi,hurt,sadness,exhaustion,non_explicit,spotify:track:40TpPuwjw3sSsqRXs16hvj
+38,Kylie,Ansh4sure,hip-hop,love,high,high,hindi,hype,manifesting,,explicit,spotify:track:43a7gF2yIZXyc7L7PMJk4B
+39,Skate,Frappe Ash,hip-hop,love,high,medium,hindi,manifesting,determination,,non_explicit,spotify:track:0qJhqXnhIyaZJcImRds9eq
+40,Madira,Seedhe Maut,hip-hop,remembering,high,high,hindi,love,manifesting,exhaustion,non_explicit,spotify:track:3ue7PTXmpCbn3LXfkZWxll
+41,Kashish,Ashish Bhatia,hip-hop,love,medium,medium,hindi,healing,manifesting,,non_explicit,spotify:track:3anHs4ijBd3Iw0E0fBPwtH
+42,Banda Kaam ka,Chaar Diwaari,hip-hop,love,high,medium,hindi,happiness,celebration,,non_explicit,spotify:track:6vH6xKa1vh9ihWrLYZAmU8
+43,Kamaal hai,King,hip-hop,love,high,medium,hindi,manifesting,celebration,,non_explicit,spotify:track:5ymJ795K518y3ACGAytG4l
+44,Tere ho ke,King,hip-hop,heartbreak,high,medium,hindi,love,remembering,sadness,non_explicit,spotify:track:6MVCtoSNhJY9hTYfoF4Pst
+45,Surma,Frappe Ash,hip-hop,love,medium,high,english,introspection,melancholy,,non_explicit,spotify:track:1qqg36GouAEweWsSDfTgTW
+46,Rakhlo tum chupake,Arpit bala,hip-hop,love,medium,medium,hindi,manifesting,happiness,melancholy,non_explicit,spotify:track:5nXmr6ypbTYjhLR3lXSPyc
+47,farebi,Vasu raina,hip-hop,love,medium,low,hindi,manifesting,calm,,non_explicit,spotify:track:0IweqwBllDlpcP1ekPY4KH
+48,Dekha hi nahi,Osho jain,hip-hop,love,low,low,hindi,remembering,healing,melancholy,non_explicit,spotify:track:5zK7gzWMZlT4TUf2iN2Wjw
+49,Shaam,Sarthak Bijalwan,hip-hop,love,medium,medium,hindi,manifesting,healing,remembering,non_explicit,spotify:track:6qBHCmIXbraNi9ysUcr5b1
+50,Kavi,Arya,hip-hop,heartbreak,medium,medium,hindi,healing,hope,loneliness,non_explicit,spotify:track:5v5FzoXUK67Tot2wB3n6N9
+51,Khat,Navjot Ahuja,hip-hop,love,medium,low,hindi,manifesting,hope,remembering,non_explicit,spotify:track:3gixnmepHSsyAuho34rprN
+52,Iss Tarah,Chaar Diwaari,hip-hop,love,high,medium,hindi,manifesting,calm,melancholy,non_explicit,spotify:track:1hj2XHe0acA4QuAS0HSxsz
+53,Looking for you,Spectra Music,hip-hop,heartbreak,low,low,hindi,love,melancholy,,explicit,spotify:track:2EUFEQixn652bk8C2ugGAO
+54,Hausla,Seedhe Maut,hip-hop,melancholy,low,low,hindi,failure,exhaustion,,explicit,spotify:track:052IC7FR5s7bx9qv9WFRMD
+55,Brand New,Seedhe Maut,hip-hop,win,medium,medium,hindi,confidence,motivation,hype,explicit,spotify:track:0nnVfXbYok1O5VG7UTPm1l
+56,Desi Dan Bilzerian,King,hip-hop,confidence,medium,low,hindi,betrayal,win,determination,non_explicit,spotify:track:0wAXFT9FskLIaN1pLkmTYE
+57,Focus Sedated,Seedhe Maut,hip-hop,determination,medium,high,hindi,stress,introspection,,explicit,spotify:track:5hbqgk9oAsXeKLbr2TgHqD
+58,Taakat,Seedhe Maut,hip-hop,confidence,high,high,hindi,determination,win,,explicit,spotify:track:3RGalL1QdsfG6b8mzATGKx
+59,Off beat,Seedhe Maut,hip-hop,self_respect,high,high,hindi,motivation,melancholy,,explicit,spotify:track:0MPEaL5c0QJCU8ZlWkKTVD
+60,Khoon,Seedhe Maut,hip-hop,flex,high,medium,hindi,confidence,win,self_respect,explicit,spotify:track:4EPeNXrBhpUPQ6gtSCQV4R
+61,Kavi,Seedhe Maut,hip-hop,introspection,low,low,hindi,melancholy,exhaustion,stress,explicit,spotify:track:79lXSE5uWPbjbh0kfT7crT
+62,Geheraiyaan,Seedhe Maut,hip-hop,rebellion,high,high,hindi,rage,introspection,,explicit,spotify:track:6d3pzFOju1ygO9ujaDfSjQ
+63,W,Seedhe Maut,hip-hop,win,low,medium,hindi,flex,determination,,explicit,spotify:track:2RIV46DUi8x7L7QWdChyJF
+64,Hoshiyaar,Seedhe Maut,hip-hop,introspection,medium,medium,hindi,calm,healing,,explicit,spotify:track:6381OUarlB97MAzGoClLz4
+65,Tour Shit!,Seedhe Maut,hip-hop,win,medium,high,hindi,rebellion,confidence_boost,,explicit,spotify:track:27HaPCMAOKEdshaYi6oXNG
+66,Zindagi,Jtrix,hip-hop,motivation,medium,medium,hindi,win,manifesting,determination,non_explicit,spotify:track:2o4XToUJ5MLvsHvtRDfKdH
+67,Bure din,Seedhe Maut,hip-hop,determination,medium,high,hindi,confidence,motivation,stress,explicit,spotify:track:7MIXOmJ6YaFEOIceEMs28B
+68,Teen dost,Seedhe Maut,hip-hop,win,medium,medium,hindi,determination,motivation,,explicit,spotify:track:1ACxqnfkbGRWYQ9x27djQt
+69,Kodak,King,hip-hop,win,high,medium,hindi,flex,confidence,,explicit,spotify:track:3e1g159cSgose2jHQj9uzd
+70,Kohra,Seedhe Maut,hip-hop,failure,low,low,hindi,exhaustion,stress,hope,explicit,spotify:track:7bEbUKwiPmb9NHHgXH3lHg
+71,Dhoop Chhaon,Ikka,hip-hop,determination,medium,medium,hindi,manifesting,confidence_boost,,non_explicit,spotify:track:5ij1xtpRZQrHwMj6tRzdU3
+72,Soyi nahi,Seedhe Maut,hip-hop,exhaustion,medium,low,hindi,heartbreak,melancholy,,non_explicit,spotify:track:6YzndExCu2dcyr61GopdlK
+73,Maina,Seedhe Maut,hip-hop,exhaustion,medium,medium,hindi,stress,calm,sadness,explicit,spotify:track:0XDvqP1blEgA3PIjmIAS5p
+74,Doori,Rishi Rich,hip-hop,rebellion,medium,high,hindi,hope,sadness,,non_explicit,spotify:track:4u7rd3IoqnI7myYiui23ik
+75,Manzilo pe,Ansh4sure,hip-hop,determination,medium,medium,hindi,failure,exhaustion,introspection,non_explicit,spotify:track:3bubRCSg3qs48RaRZZMdwT
+76,Some of us,Kr$na,hip-hop,introspection,low,medium,hindi,loneliness,sadness,failure,explicit,spotify:track:1uNzciidFGneEn97YDowTq
+77,Kaha tak,Kr$na,hip-hop,determination,medium,medium,hindi,motivation,manifesting,,explicit,spotify:track:1EvFCT12WiFT649pC9wsPV
+78,Chalo chalein,Ritviz,hip-hop,happiness,medium,medium,hindi,celebration,healing,,non_explicit,spotify:track:3uB2mkp8ovjiuJA734dbGe
+79,SRK,Seedhe Maut,hip-hop,determination,medium,high,hindi,win,rebellion,motivation,explicit,spotify:track:7wwbAQWdSkmqMyjvIAT5jO
+80,Dikkat,Seedhe Maut,hip-hop,healing,medium,medium,hindi,exhaustion,calm,,explicit,spotify:track:0CR40DgJsAKNdEjIyctuU5
+81,Pain,Seedhe Maut,hip-hop,determination,low,medium,hindi,rebellion,win,healing,explicit,spotify:track:3eKnoN2kVlLDe1E2mV4DFk
+82,I don’t miss that life,Seedhe Maut,hip-hop,win,low,low,hindi,determination,calm,introspection,explicit,spotify:track:6tBiXnvflFCcEQAbQAdKkf
+83,Choti soch,Seedhe Maut,hip-hop,determination,low,low,hindi,exhaustion,calm,flex,explicit,spotify:track:6H24Gv7KS7s8Kae3dihkyl
+84,Zimmedaar,Paradox,hip-hop,determination,medium,low,hindi,exhaustion,heartbreak,healing,non_explicit,spotify:track:2OuL43cBc4phuvcU4vZcXP
+85,Stay away,Kr$na,hip-hop,determination,medium,medium,hindi,rebellion,betrayal,win,explicit,spotify:track:7vZW14C8eHFf9KTWpuNjpU
+86,Mileya ni,Paradox,hip-hop,exhaustion,medium,medium,hindi,introspection,betrayal,self_respect,non_explicit,spotify:track:0hFNvRXbtpruDJnZkb8yDA
+87,Tofa,Seedhe Maut,hip-hop,happiness,low,medium,hindi,healing,calm,manifesting,non_explicit,spotify:track:1f3QUHdqo2BqbNapIoYepx
+88,Nawazuddin,Seedhe Maut,hip-hop,win,medium,medium,hindi,flex,rage,confidence,explicit,spotify:track:2T5fqWd6Lisq3NWfy5thLh
+89,Pankh,Seedhe Maut,hip-hop,win,low,low,hindi,exhaustion,failure,stress,non_explicit,spotify:track:77lw7sbt3aPGNvnb01WAEN
+90,Gandi Aulaad,Seedhe Maut,hip-hop,exhaustion,medium,high,hindi,introspection,failure,determination,explicit,spotify:track:4mlvxi5y9ECUce1E6jis8E
+91,Saans le,Seedhe Maut,hip-hop,motivation,medium,medium,hindi,healing,calm,,non_explicit,spotify:track:2iXBC05HTwhdQzUR8RQthj
+92,Crossroads,Hi-Rez,hip-hop,determination,medium,medium,english,motivation,calm,confidence,explicit,spotify:track:42SFMVlOCWujDaPJPmlIW0
+93,Me and my broskie,Raftaar,hip-hop,nostalgia,medium,medium,hindi,remembering,win,determination,explicit,spotify:track:73c2jXpV3SbJCwn2MUxkFf
+94,Magan,Rawal,hip-hop,calm,low,low,hindi,healing,introspection,,non_explicit,spotify:track:1K7We4YedyAO24rTddA1B4
+95,Mohabbat,Kaam bhari,hip-hop,love,medium,high,hindi,heartbreak,exhaustion,manifesting,non_explicit,spotify:track:2cbTH0FqDD2wv9KBXuWjme
+96,Hasti rehe tu,Paradox,hip-hop,love,high,medium,hindi,heartbreak,remembering,melancholy,non_explicit,spotify:track:59vrEi8OjacDlghdKmfbFk
+97,Aaina,AFKAP,hip-hop,introspection,medium,medium,hindi,exhaustion,failure,healing,non_explicit,spotify:track:5SAgi6ZXqpCWQADP8XyRDY
+98,Tu deewani,Dhruv Sthetic,hip-hop,love,low,low,hindi,remembering,calm,,non_explicit,spotify:track:2R5Laqs6Otr72Q4YJjrFWw
+99,ICE,Seedhe Maut,hip-hop,win,medium,high,hindi,determination,flex,,explicit,spotify:track:3iNGpMjhIcTqrAliwmSaaH
+100,Gourmet Shit!,Seedhe Maut,hip-hop,determination,high,high,hindi,rebellion,flex,motivation,explicit,spotify:track:5J9a8TXC2zF4KuUdm7CgT6
+101,Bad decisions,SarpDansh,hip-hop,love,medium,high,hindi,heartbreak,sadness,exhaustion,non_explicit,spotify:track:3JxS87lpZBRzV1lZ4UosAd
+102,Moon Comes up,Seedhe Maut,hip-hop,calm,medium,high,hindi,rebellion,exhaustion,melancholy,explicit,spotify:track:66GDabumuepCIWCl1xAWKL
+103,Shakti aur kshama,Seedhe Maut,hip-hop,determination,high,medium,hindi,win,nostalgia,introspection,explicit,spotify:track:67CZPR2aGFSTKL1r1zlzN8
+104,Waqt,Jtrix,hip-hop,introspection,low,medium,hindi,determination,motivation,,non_explicit,spotify:track:6Bfe2vAk1EZFyJ6AAxamkW
+105,Tu hi tu,Aniket Raturi,hip-hop,love,medium,medium,hindi,remembering,stress,,non_explicit,spotify:track:6lEB3nLySiwTHqU5kmqXr5
+106,Naraaz,Seedhe Maut,hip-hop,determination,medium,medium,hindi,win,rage,rebellion,explicit,spotify:track:60ZWcxBcx4WZpeXzyOOGkX
+107,Wapas,Farhan Khan,hip-hop,love,medium,low,hindi,heartbreak,remembering,,non_explicit,spotify:track:3eVCtFKe2TDqOY72kP6WG7
+108,GodChild,Azooz,hip-hop,exhaustion,medium,high,hindi,determination,failure,calm,explicit,spotify:track:6kKD7Nkb2wfaEtM5AA4UHK
+109,Awaara,Badshah,hip-hop,happiness,low,low,hindi,flex,win,calm,non_explicit,spotify:track:6LPNzApcGUjRdvMR6oE6ei
+110,Jaadugar,Paradox,hip-hop,love,high,medium,hindi,healing,manifesting,remembering,non_explicit,spotify:track:4ujToRFWb3C8tdPkmVPwu2
+111,Blanko,King,hip-hop,love,medium,low,hindi,heartbreak,manifesting,remembering,non_explicit,spotify:track:15L09dirbXaky02lL5gW6R
+112,Tu hai kaun,G16,hip-hop,introspection,medium,medium,hindi,love,manifesting,,explicit,spotify:track:5yY0nsRyYnCvSoglJzarFr
+113,Baat bangayi,Rawal,hip-hop,love,low,low,hindi,healing,calm,,non_explicit,spotify:track:7ffxKfXyexVKGvdyaKIyb2
+114,Vartamaan,Uniyal,hip-hop,introspection,medium,medium,hindi,determination,rebellion,,non_explicit,spotify:track:20slSXvCF6j6Zp3WMqmyfQ
+115,Khoj,Seedhe Maut,hip-hop,exhaustion,high,high,hindi,determination,motivation,rage,explicit,spotify:track:4EwcdAAjAQT2ZjDcH9PPoB
+116,Khayaal,Jtrix,hip-hop,introspection,low,medium,hindi,determination,motivation,exhaustion,non_explicit,spotify:track:70Dr69JNzUcWV17WC21hJY
+117,Cigarette,Farhan Khan,hip-hop,heartbreak,high,medium,hindi,love,remembering,sadness,non_explicit,spotify:track:6UsWMfasysjKyYk26oJrFs
+118,Sherdil,Rawal,hip-hop,win,medium,medium,hindi,determination,motivation,,explicit,spotify:track:2QQHl40aekAHWUwQNQCueO
+119,Meri zindagi,Rawal,hip-hop,exhaustion,low,low,hindi,stress,melancholy,,explicit,spotify:track:12Bywn3BazG19v53PN2nlW
+120,Mere saare nakli dost,Rawal,hip-hop,betrayal,low,medium,hindi,exhaustion,motivation,,explicit,spotify:track:7nZX0UZhbOTCN8HxsLTaUE
+121,Tu,Rawal,hip-hop,calm,medium,medium,hindi,love,manifesting,,non_explicit,spotify:track:3i1WYPSfUXQZGAa2gNtaxi
+122,Pancake,Seedhe Maut,hip-hop,win,medium,medium,hindi,determination,calm,,explicit,spotify:track:2r9O7yHHhqC18UTu6dYjr1
+123,Capital Rap,Seedhe Maut,hip-hop,win,medium,low,hindi,determination,manifesting,,explicit,spotify:track:3HlnDsfP4g2pRpzZrueI4F
+124,Akela,Seedhe Maut,hip-hop,confidence,low,medium,hindi,loneliness,calm,exhaustion,explicit,spotify:track:7s5TJoslw84yubC1uHIydM
+125,Barsaat,Seedhe Maut,hip-hop,love,medium,medium,hindi,loneliness,calm,exhaustion,explicit,spotify:track:7w1Tak30oolPZ8nMonpwUw
+126,Guldasta,Seedhe Maut,hip-hop,love,medium,medium,hindi,manifesting,healing,nostalgia,explicit,spotify:track:2lnBEAaX9tzOGsSPRTCKCe
+127,Video Games,Seedhe Maut,hip-hop,calm,low,medium,hindi,healing,introspection,,explicit,spotify:track:3iiQDjlBJdCv7O6jRLmiWq
+128,Dil se,Seedhe Maut,hip-hop,calm,low,low,hindi,healing,introspection,,explicit,spotify:track:6xVBqYc1TummN6Kl6Lraa4
+129,Nadaan,Seedhe Maut,hip-hop,introspection,medium,high,hindi,exhaustion,failure,sadness,non_explicit,spotify:track:0UWg3p2GvM0ObdJg2kLKeF
+130,Nadaani,Yashraj,hip-hop,determination,medium,medium,hindi,stress,confidence_boost,rage,non_explicit,spotify:track:0a6YWmbQisAASpV4dEHslo
+131,Sundowner,Jtrix,hip-hop,determination,low,medium,hindi,exhaustion,failure,confidence,explicit,spotify:track:611W1h3FlwFNGCVO2Gvtme
+132,Terey Papa,OG Lucifer,hip-hop,flex,high,high,hindi,win,confidence,,explicit,spotify:track:7vIXP7osY1jcyIpX9hCeLt

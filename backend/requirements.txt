@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pandas
+requests
+python-dotenv
+spotipy
+psycopg2-binary
+python-dotenv

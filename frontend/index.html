@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Emotion Playlist</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/static/styles.css" />
+  <script src="/static/app.js"></script>
+</head>
+
+<body>
+
+  <div class="app">
+    <header>
+      <h1>Emotion Playlist</h1>
+      <p>Tell me how you feel. I’ll handle the music.</p>
+    </header>
+
+    <main>
+      <textarea id="userInput" placeholder="Type how you're feeling..." rows="3"></textarea>
+
+      <button id="submitBtn">Generate Playlist</button>
+
+      <div id="loader" class="loader hidden"></div>
+
+      <section id="results" class="hidden">
+        <h2>Recommended Songs</h2>
+        <ul id="songList"></ul>
+      </section>
+
+      <button id="createPlaylistBtn" class="hidden">
+        Create Spotify Playlist
+      </button>
+      
+      <div id="emotionInfo" class="hidden"></div>
+
+      <div id="playlistLink" class="hidden">
+        <a id="spotifyLink" target="_blank">Open Playlist on Spotify</a>
+      </div>
+    </main>
+
+    <footer>
+      <span>Emotion-driven recommendations</span>
+    </footer>
+  </div>
+</body>
+
+</html>
