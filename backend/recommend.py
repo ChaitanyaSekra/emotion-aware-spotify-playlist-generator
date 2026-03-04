@@ -329,26 +329,9 @@ def get_recommendations(text: str) -> Dict:
                 })
 
         ranked.sort(key=lambda x: x["score"], reverse=True)
-        print(ranked)
-        print("STEP 3: Creating Spotify playlist")
-        
-        from backend.spotify_playlist import create_playlist
-
-        spotify_uris = [
-            s["spotify_uri"]
-            for s in ranked
-            if s["spotify_uri"]
-        ]
-        playlist = create_playlist(
-            playlist_name=f"Feeling: {user_emotion['primary']}",
-            spotify_uris=spotify_uris,
-            description=f"Generated from emotion: {user_emotion}",
-            public=False
-        )
-
-        print("STEP 4: Spotify playlist created")
 
         return {
-        "emotion": user_emotion,
-        "songs": ranked[:5],
+            "emotion": user_emotion,
+            "songs": ranked[:5],
+            "score": sc
         }
