@@ -123,7 +123,7 @@ def import_csv(path):
 if __name__ == "__main__":
     import sys
     if len(sys.argv) != 2:
-        print("Usage: python import_csv_postgres.py path/to/songs.csv")
+        print("Usage: python import.py songs.csv")
         exit(1)
 
     import_csv(sys.argv[1])

@@ -148,67 +148,100 @@ EMOTION_CLUSTERS = {
 
 def extract_emotions(text: str) -> Dict:
     prompt = f"""
-You are a classification engine, not a conversational assistant.
+You are an emotion classification engine. Your only job is to output JSON.
 
-TASK:
-Classify the emotional intent of the given text. You need to get the emotions correct of what the user could be feeling.
-for example: I got a job will mean they won in life so "win","confidence","flex","happiness" these kind of emotions are what the user would be feeling
+TASK
 
-emotions like dreaming will equivilate to manifesting
-wishing for something will count in manifesting
+Given a text input, identify what emotional state the person is experiencing.
+Think about the SITUATION and UNDERLYING FEELING — not just the surface words.
 
-RULES (MANDATORY):
-1. You MUST output valid JSON only.
-2. Do NOT include explanations, comments, or extra text.
-3. Select EXACTLY ONE primary emotion.
-4. Select ZERO TO THREE secondary emotions.
-5. ALL emotions MUST be chosen ONLY from the ALLOWED_EMOTIONS list.
-6. If no secondary emotions apply, return an empty array.
-7. If you are uncertain, choose the closest matching emotion FROM THE LIST.
-8. NEVER invent new emotions.
-9. NEVER rephrase emotion names.
-10. Output MUST be parseable by json.loads().
 
-ALLOWED_EMOTIONS:
-[
-  "win",
-  "confidence",
-  "motivation",
-  "happiness",
-  "celebration",
-  "love",
-  "hope",
-  "calm",
-  "nostalgia",
-  "loneliness",
-  "introspection",
-  "healing",
-  "heartbreak",
-  "sadness",
-  "rage",
-  "stress",
-  "exhaustion",
-  "failure",
-  "hype",
-  "rebellion",
-  "confidence_boost",
-  "melancholy",
-  "determination",
-  "remembering",
-  "manifesting",
-  "flex",
-  "self_respect",
-  "betrayal",
-  "hurt"
-]
+ALLOWED_EMOTIONS (use ONLY these, exactly as written)
 
-PRIMARY EMOTION SELECTION RULE:
-Choose the emotion that best explains the SITUATION described, not surface feelings or keywords.
+win, confidence, motivation, happiness, celebration, love, hope, calm,
+nostalgia, loneliness, introspection, healing, heartbreak, sadness, rage,
+stress, exhaustion, failure, hype, rebellion, confidence_boost, melancholy,
+determination, remembering, manifesting, flex, self_respect, betrayal, hurt
 
-OUTPUT FORMAT (STRICT):
+
+EMOTION GUIDE (how to map situations → emotions)
+
+Use this table to resolve ambiguous or overlapping cases:
+
+SITUATION                                         → PRIMARY EMOTION
+──────────────────────────────────────────────────────────────────
+Got a job / promotion / big achievement           → win
+Feeling powerful, untouchable, on top             → confidence
+Showing off success, money, status                → flex
+Pumped up, fired up before something big         → hype
+Need to push through, not giving up               → determination
+Just starting to feel better after pain           → healing
+Wishing / visualizing the future you want         → manifesting
+Missing a specific person or time                 → remembering
+Missing the feeling of the past in general        → nostalgia
+Processing grief or a bad chapter alone           → introspection
+Was wronged, used, deceived by someone            → betrayal
+Emotionally wounded but not full heartbreak       → hurt
+Relationship ended / lost someone you loved       → heartbreak
+General low mood, no specific cause               → melancholy
+Deep sadness with a clear reason                  → sadness
+Burned out, running on empty                      → exhaustion
+Feeling like you failed at something important    → failure
+Furious, explosive anger                          → rage
+Overwhelmed by pressure / deadlines               → stress
+Trusting the future will be better                → hope
+At peace, no pressure, quiet mind                 → calm
+Romantic love, warmth for another person          → love
+Joy, things are good right now                    → happiness
+Marking a milestone, party energy                 → celebration
+Standing up for yourself, done being disrespected → self_respect
+Going against the system / norms                  → rebellion
+Getting a compliment or recognition that lands    → confidence_boost
+Feeling driven to improve yourself                → motivation
+
+
+HARD RULES
+
+1. Output ONLY valid JSON. No text before or after.
+2. primary: exactly ONE emotion from ALLOWED_EMOTIONS.
+3. secondary: ZERO to THREE emotions from ALLOWED_EMOTIONS.
+4. BOTH primary and secondary must come from ALLOWED_EMOTIONS only.
+5. Never invent emotion names. Never rephrase them.
+6. If secondary emotions don't apply, return an empty array [].
+7. Output must be parseable by Python's json.loads().
+
+
+FEW-SHOT EXAMPLES
+
+Input: "I finally got the job I've been working toward for 2 years"
+Output: {{"primary": "win", "secondary": ["happiness", "determination"]}}
+
+Input: "I keep thinking about her even though it's been months"
+Output: {{"primary": "heartbreak", "secondary": ["loneliness", "remembering"]}}
+
+Input: "I'm so done with people using me"
+Output: {{"primary": "betrayal", "secondary": ["rage", "self_respect"]}}
+
+Input: "Just want to lie in bed and do nothing today"
+Output: {{"primary": "exhaustion", "secondary": ["melancholy"]}}
+
+Input: "I know it's going to work out. I just feel it."
+Output: {{"primary": "manifesting", "secondary": ["hope", "calm"]}}
+
+Input: "New car, new apartment, life is good right now"
+Output: {{"primary": "flex", "secondary": ["win", "happiness"]}}
+
+Input: "I don't know why I feel empty lately"
+Output: {{"primary": "melancholy", "secondary": ["introspection"]}}
+
+Input: "My team is counting on me, I can't let them down"
+Output: {{"primary": "determination", "secondary": ["stress", "motivation"]}}
+
+OUTPUT FORMAT
+
 {{
   "primary": "<one emotion from ALLOWED_EMOTIONS>",
-  "secondary": ["<emotion>", "<emotion>", "<emotion>"]
+  "secondary": ["<emotion>", "<emotion>"]
 }}
 
 TEXT:
@@ -332,6 +365,6 @@ def get_recommendations(text: str) -> Dict:
 
         return {
             "emotion": user_emotion,
-            "songs": ranked[:5],
+            "songs": ranked[:10],
             "score": sc
         }
